@@ -5,7 +5,7 @@
 - 👯 喜欢动漫，以及各种galgame
 - 📫 视频账号为：<a href="https://space.bilibili.com/3493081550686863?spm_id_from=333.337.0.0">B站-百濑美月_</a> || 不定时更新自制的galgame翻译补丁
 - ✈️ tg群：https://t.me/+CtnbK2xUiX1hNzA1
-- 😭 TypeScript你什么时候死啊
+- 😡 I don't like the TypeScript
 
 <br>
 
