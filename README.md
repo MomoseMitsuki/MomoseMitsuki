@@ -9,6 +9,7 @@
 
 <br>
 ## 技术栈🛠️
+
 <p align="left">
   &emsp;&emsp;&emsp;
   <img src="./src/vue.svg">&emsp;
@@ -18,6 +19,6 @@
   <img src="./src/cpp.svg">&emsp;
   <img src="./src/Assembly.svg">&emsp;
 </p>
-<br><br>
+<br>
 <img align="left" src="./src/githubInfo.svg">
 <img align="left" src="./src/language.svg">
