@@ -23,5 +23,5 @@
 
 
 
-<img align="left" src="./src/githubInfo.svg">
-<img height="360px" align="left" src="./src/language.svg">
+<img height="160px" align="left" src="./src/githubInfo.svg">
+<img height="160px" align="left" src="./src/language.svg">
