@@ -17,5 +17,5 @@
   <img src="./src/cpp.svg">&emsp;
   <img src="./src/Assembly.svg">&emsp;
 </p>
-<img align="left" src="./src/githubio.svg">
+<img align="left" src="./src/githubInfo.svg">
 <img align="left" src="./src/language.svg">
