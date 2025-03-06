@@ -18,4 +18,4 @@
   <img src="./src/Assembly.svg">&emsp;
 </p>
 <img align="left" src="./src/githubInfo.svg">
-<img align="left" src="./src/language.svg">
+<img align="left" height="360px" src="./src/language.svg">
