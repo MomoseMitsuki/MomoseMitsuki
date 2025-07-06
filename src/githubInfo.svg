@@ -1,16 +1,6 @@
-
-
-      <svg
-        width="467"
-        height="243"
-        viewBox="0 0 467 243"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId">Mitsuki &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: C</title>
-        <desc id="descId">获标星数（star）: 5, 累计提交数（commit） in 2025 : 69, 拉取请求数（PR）: 0, 指出问题数（issue）: 0, 贡献于（去年）: 0</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="243" viewBox="0 0 467 243" fill="none" role="img" aria-labelledby="descId">
+        <title id="titleId">Mitsuki 的 GitHub 统计数据, Rank: C</title>
+        <desc id="descId">获标星数（star）: 10, 累计提交数（commit） in 2025 : 76, 拉取请求数（PR）: 1, 指出问题数（issue）: 0, 贡献于（去年）: 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -74,7 +64,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 236.41781078114482;
+        stroke-dashoffset: 226.63720214919414;
       }
     }
   
@@ -104,43 +94,21 @@
 
         
 
-        <rect
-          data-testid="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
-          width="466"
-          fill="#fffefe"
-          stroke-opacity="1"
-        />
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#fffefe" stroke-opacity="1"/>
 
         
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
+      <g data-testid="card-title" transform="translate(25, 35)">
         <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >Mitsuki &#30340; GitHub &#32479;&#35745;&#25968;&#25454;</text>
+      <text x="0" y="0" class="header" data-testid="header">Mitsuki 的 GitHub 统计数据</text>
     </g>
       </g>
     
 
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
+        <g data-testid="main-card-body" transform="translate(0, 55)">
           
-    <g data-testid="rank-circle"
-          transform="translate(390.5, 71.5)">
-        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
-        <circle class="rank-circle" cx="-10" cy="8" r="40" />
+    <g data-testid="rank-circle" transform="translate(390.5, 71.5)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40"/>
+        <circle class="rank-circle" cx="-10" cy="8" r="40"/>
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
@@ -158,12 +126,7 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">获标星数（star）:</text>
-      <text
-        class="stat  bold"
-        x="269.01"
-        y="12.5"
-        data-testid="stars"
-      >5</text>
+      <text class="stat  bold" x="269.01" y="12.5" data-testid="stars">10</text>
     </g>
   </g><g transform="translate(0, 33)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -173,12 +136,7 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">累计提交数（commit） (2025):</text>
-      <text
-        class="stat  bold"
-        x="269.01"
-        y="12.5"
-        data-testid="commits"
-      >69</text>
+      <text class="stat  bold" x="269.01" y="12.5" data-testid="commits">76</text>
     </g>
   </g><g transform="translate(0, 66)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -188,12 +146,7 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">拉取请求数（PR）:</text>
-      <text
-        class="stat  bold"
-        x="269.01"
-        y="12.5"
-        data-testid="prs"
-      >0</text>
+      <text class="stat  bold" x="269.01" y="12.5" data-testid="prs">1</text>
     </g>
   </g><g transform="translate(0, 99)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -203,12 +156,7 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">指出问题数（issue）:</text>
-      <text
-        class="stat  bold"
-        x="269.01"
-        y="12.5"
-        data-testid="issues"
-      >0</text>
+      <text class="stat  bold" x="269.01" y="12.5" data-testid="issues">0</text>
     </g>
   </g><g transform="translate(0, 132)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -218,16 +166,10 @@
     </svg>
   
       <text class="stat  bold" x="25" y="12.5">贡献于（去年）:</text>
-      <text
-        class="stat  bold"
-        x="269.01"
-        y="12.5"
-        data-testid="contribs"
-      >0</text>
+      <text class="stat  bold" x="269.01" y="12.5" data-testid="contribs">1</text>
     </g>
   </g>
     </svg>
   
         </g>
-      </svg>
-    
+      <script xmlns=""/></svg>
