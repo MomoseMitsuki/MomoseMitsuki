@@ -17,7 +17,8 @@
   <img src="./src/react.svg">&emsp;
   <img src="./src/typescript.svg">&emsp;
   <img src="./src/mongodb.svg">&emsp;
-  <img src="./src/java.svg">&emsp;
+  <img src="./src/webpack.svg">&emsp;
+  <img src="./src/vite.svg">&emsp;
   <img src="./src/cpp.svg">&emsp;
   <img src="./src/Assembly.svg">&emsp;
 </p>
