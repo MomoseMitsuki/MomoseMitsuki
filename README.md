@@ -13,6 +13,7 @@
 
 <p align="left">
   &emsp;&emsp;&emsp;
+  <img src="./src/nuxt.svg">&emsp;
   <img src="./src/vue.svg">&emsp;
   <img src="./src/react.svg">&emsp;
   <img src="./src/typescript.svg">&emsp;
